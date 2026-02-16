@@ -1,5 +1,5 @@
 title: TailorMate Help Center
 description: Help articles and tutorials for TailorMate app
-remote_theme: just-the-docs/just-the-docs
+remote_theme: CloudCannon/edition-jekyll-template
 plugins:
   - jekyll-remote-theme
